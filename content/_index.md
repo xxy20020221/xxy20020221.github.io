@@ -107,14 +107,14 @@ sections:
           organization_url: http://crc.drct-caa.org.cn/
           title: RoboCup
           url: http://crc.drct-caa.org.cn/
-        - date_end: ''
-          date_start: '2022-09-01'
-          description: 'First prize of the 'Internet+' Competition in China'
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: China College Students' 'Internet+'Innovation and Entrepreneurship Competition
-          url: ''
+        # - date_end: ''
+        #   date_start: '2022-09-01'
+        #   description: 'First prize of the "'Internet+'" Competition in China'
+        #   icon: coursera
+        #   organization: Coursera
+        #   organization_url: https://www.coursera.org
+        #   title: China College Students' 'Internet+'Innovation and Entrepreneurship Competition
+        #   url: ''
         - certificate_url: uploads/modeling.pdf
           date_end: '2021-09-01'
           date_start: '2021-04-01'
