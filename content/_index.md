@@ -62,27 +62,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: VCG-Kaleidoscope, Beihang University
+          company: Prof. Lu Sheng
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: org-vcg
+          location: Beijing, China
+          date_start: '2023-08-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          description: 
+              Experiments to invent retrieve augmented generation into human-object interaction tasks, currently in progress
+        - title: Colab, Beihang University
+          company: Prof. Si Liu
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Beijing, China
+          date_start: '2023-08-01'
+          date_end: '2023-04-01'
+          description: Experiments to invent MLLM's localization capablity into Open-Vocabulary detection tasks.
     design:
       columns: '2'
   - block: accomplishments
@@ -188,41 +184,38 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
+      text: Currently working on Human-Object Interaction Project under Prof. Lu Sheng. 
+      # filters:
+      #   folders:
+      #     - publication
+      #   exclude_featured: true
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
