@@ -65,7 +65,7 @@ sections:
         - title: VCG-Kaleidoscope, Beihang University
           company: Prof. Lu Sheng
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-x
           location: Beijing, China
           date_start: '2023-08-01'
           date_end: ''
@@ -79,6 +79,14 @@ sections:
           date_start: '2023-08-01'
           date_end: '2023-04-01'
           description: Experiments to invent MLLM's localization capablity into Open-Vocabulary detection tasks.
+        - title: Biomechanics and Soft Robotics Lab, Beihang University
+          company: Prof. Li Wen
+          company_url: ''
+          company_logo: org-x
+          location: Beijing, China
+          date_start: '2021-08-01'
+          date_end: '2022-04-01'
+          description: The robotic lab supervised by Prof. Li Wen, Designated to the design of Soft biomimetic robots and automation.
     design:
       columns: '2'
   - block: accomplishments
@@ -98,7 +106,7 @@ sections:
           date_end: ''
           date_start: '2023-08-01'
           description: Third place of the RoboCup China Open 2023 .
-          icon: org-x
+          icon: robocup
           organization: edX
           organization_url: http://crc.drct-caa.org.cn/
           title: RoboCup
@@ -115,7 +123,7 @@ sections:
           date_end: '2021-09-01'
           date_start: '2021-04-01'
           description: 'Honorable Mention'
-          icon: datacamp
+          icon: comap
           organization: DataCamp
           organization_url: https://www.comap.com/contests/mcm-icm
           title: 'Mathematical Contest in Modeling (MCM)'
