@@ -31,4 +31,5 @@ url_video: ''
 slides: ""
 ---
 
+
 This project represents the autonomous development of a High-Performance Intelligent Humanoid Robot, originally designed to compete in the RoboCup soccer competition. As the founder of the project, I led the creation of the robot's mechanical structures and software, all developed from scratch. Our robot's code is based on the Robot Operating System (ROS), and my specific contributions include writing the vision system, decision tree algorithms, and lower-level machine programs. This hands-on experience has given me a wealth of knowledge in these areas. Since its inception, the robot has transitioned to serve as an advanced educational platform, providing students and robotics enthusiasts with a practical demonstration of AI and mechanical engineering principles. This multifunctional humanoid robot showcases our commitment to innovation in both competitive and educational robotics.
