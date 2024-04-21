@@ -106,8 +106,8 @@ sections:
           date_end: ''
           date_start: '2023-08-01'
           description: Third place of the RoboCup China Open 2023 .
-          icon: robocup
-          organization: edX
+          icon: uploads/robocup.jpg
+          organization: robocup
           organization_url: http://crc.drct-caa.org.cn/
           title: RoboCup
           url: http://crc.drct-caa.org.cn/
@@ -123,8 +123,8 @@ sections:
           date_end: '2021-09-01'
           date_start: '2021-04-01'
           description: 'Honorable Mention'
-          icon: comap
-          organization: DataCamp
+          icon: uploads/comap.png
+          organization: Comap
           organization_url: https://www.comap.com/contests/mcm-icm
           title: 'Mathematical Contest in Modeling (MCM)'
           url: ''
@@ -203,10 +203,10 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
+  - block: recent_works
     id: recent
     content:
-      title: Recent Publications
+      title: Recent Works
       text: Currently working on Human-Object Interaction Project under Prof. Lu Sheng. 
       # filters:
       #   folders:
