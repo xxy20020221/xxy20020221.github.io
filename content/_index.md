@@ -98,7 +98,7 @@ sections:
           date_end: ''
           date_start: '2023-08-01'
           description: Third place of the RoboCup China Open 2023 .
-          icon: edx
+          icon: org-x
           organization: edX
           organization_url: http://crc.drct-caa.org.cn/
           title: RoboCup
