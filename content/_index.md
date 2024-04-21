@@ -203,7 +203,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: recent_works
+  - block: collection
     id: recent
     content:
       title: Recent Works
