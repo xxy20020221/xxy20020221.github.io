@@ -107,24 +107,24 @@ sections:
           organization_url: http://crc.drct-caa.org.cn/
           title: RoboCup
           url: http://crc.drct-caa.org.cn/
-        - certificate_url: ./robot.jpg
-          date_end: ''
-          date_start: '2022'
-          description: 'First prize of the 'Internet+' Competition in China'
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: China College Students' 'Internet+'Innovation and Entrepreneurship Competition
-          url: ''
-        - certificate_url: ./modeling.pdf
-          date_end: '2021'
-          date_start: '2021'
-          description: 'Honorable Mention'
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.comap.com/contests/mcm-icm
-          title: 'Mathematical Contest in Modeling (MCM)'
-          url: ''
+        # - certificate_url: ./robot.jpg
+        #   date_end: ''
+        #   date_start: '2022'
+        #   description: 'First prize of the 'Internet+' Competition in China'
+        #   icon: coursera
+        #   organization: Coursera
+        #   organization_url: https://www.coursera.org
+        #   title: China College Students' 'Internet+'Innovation and Entrepreneurship Competition
+        #   url: ''
+        # - certificate_url: ./modeling.pdf
+        #   date_end: '2021'
+        #   date_start: '2021'
+        #   description: 'Honorable Mention'
+        #   icon: datacamp
+        #   organization: DataCamp
+        #   organization_url: https://www.comap.com/contests/mcm-icm
+        #   title: 'Mathematical Contest in Modeling (MCM)'
+        #   url: ''
     design:
       columns: '2'
   - block: collection
