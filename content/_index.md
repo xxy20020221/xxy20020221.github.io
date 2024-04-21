@@ -107,7 +107,7 @@ sections:
           organization_url: http://crc.drct-caa.org.cn/
           title: RoboCup
           url: http://crc.drct-caa.org.cn/
-        - certificate_url: ''
+        - certificate_url: ./robot.jpg
           date_end: ''
           date_start: '2022'
           description: 'First prize of the 'Internet+' Competition in China'
