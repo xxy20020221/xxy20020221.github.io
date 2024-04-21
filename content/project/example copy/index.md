@@ -1,6 +1,6 @@
 ---
-title: Intelligent Humanoid Robot
-summary: This project represents the autonomous development of a High-Performance Intelligent Humanoid Robot, third place of the RoboCup soccer competition in China. As the founder of the project, I led the creation of the robot's mechanical structures and software, all developed from scratch.
+title: Remora Suckerfish Robot
+summary: Included in the SCI with an impact factor of 3.74. A bio-inspired hitchhiking remora suckerfish robot.
 tags:
   - Computer Vision
   - Robotics
