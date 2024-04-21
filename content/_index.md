@@ -65,7 +65,7 @@ sections:
         - title: VCG-Kaleidoscope, Beihang University
           company: Prof. Lu Sheng
           company_url: ''
-          company_logo: org-vcg
+          company_logo: org-gc
           location: Beijing, China
           date_start: '2023-08-01'
           date_end: ''
