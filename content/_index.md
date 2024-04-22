@@ -124,8 +124,8 @@ sections:
           date_start: '2022-09-01'
           description: 'First prize of the Internet+ Competition in China'
           icon: uploads/comap.png
-          organization: Coursera
-          organization_url: https://www.coursera.org
+          organization: The Chinese Ministry of Education
+          organization_url: http://en.moe.gov.cn/
           title: 'China College Students Internet+ Innovation and Entrepreneurship Competition'
           url: ''
         - certificate_url: uploads/modeling.pdf
